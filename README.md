@@ -1,6 +1,6 @@
 # fruits.txt
 
 apples
-berries
+Bananas
 cherries
 
